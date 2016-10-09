@@ -1,6 +1,3 @@
-# This YAML file describes your package. Stack will automatically generate a
-# Cabal file when you run `stack build`. See the hpack website for help with
-# this file: <https://github.com/sol/hpack>.
 benchmarks:
   Periodic-benchmarks:
     dependencies:
@@ -13,8 +10,8 @@ benchmarks:
     - -with-rtsopts=-N
     main: Main.hs
     source-dirs: benchmark
-category: Other
-description: Periodic is a new Haskeleton package.
+category: Data
+description: Periodic provide functions for transforming periodic data
 executables:
   Periodic:
     dependencies:
@@ -33,15 +30,16 @@ extra-source-files:
 - README.md
 - stack.yaml
 ghc-options: -Wall
-github: githubuser/Periodic
+github: yuhangwang/Periodic
 library:
   dependencies:
   - base
-  source-dirs: library
+  source-dirs: [library, library/deps]
+  other-modules: Unwrap
 license: MIT
-maintainer: Author name here
+maintainer: Yuhang(Steven) Wang
 name: Periodic
-synopsis: A new Haskeleton package.
+synopsis: Periodic package provides functions for transforming periodic data.
 tests:
   Periodic-test-suite:
     dependencies:
@@ -55,4 +53,4 @@ tests:
     - -with-rtsopts=-N
     main: Main.hs
     source-dirs: test-suite
-version: '0.0.0'
+version: '0.1.0'

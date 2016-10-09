@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"pa",
+				"padded_points"
+			],
+			[
+				"rand",
+				"random_point_2D"
+			],
+			[
+				"ran",
+				"random_point_2D"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/G/DEVELOP/Periodic/executable/Main.hs",
+			"settings":
+			{
+				"buffer_size": 44,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/G/DEVELOP/Periodic/package.yaml",
+			"settings":
+			{
+				"buffer_size": 1091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/G/DEVELOP/Periodic/Periodic.cabal",
+			"settings":
+			{
+				"buffer_size": 1758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/G/DEVELOP/AppliedStochasticProcesses/h6/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 1623,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 437.0,
+		"last_filter": "package in",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/DEVELOP/Periodic",
+		"/G/DEVELOP/Periodic/executable",
+		"/G/DEVELOP/Periodic/library",
+		"/G/DEVELOP/Periodic/library/deps",
+		"/G/DEVELOP/Periodic/test-suite"
+	],
+	"file_history":
+	[
+		"/G/DEVELOP/Periodic/test-suite/Main.hs",
+		"/G/DEVELOP/Periodic/package.yaml",
+		"/G/DEVELOP/Periodic/Periodic.cabal",
+		"/G/DEVELOP/Periodic/library/deps/Unwrap.hs",
+		"/G/DEVELOP/Periodic/test-suite/TrivialSpec.hs",
+		"/G/DEVELOP/Periodic/test-suite/UnwrapSpec.hs",
+		"/G/DEVELOP/Periodic/library/Periodic.hs",
+		"/G/DEVELOP/Periodic/library/deps/Unwrap",
+		"/G/DEVELOP/Periodic/LICENSE.md",
+		"/G/DEVELOP/Files/Files.cabal",
+		"/G/DEVELOP/Files/src/Main.hs",
+		"/G/DEVELOP/Files/test-suite/HeadsSpec.hs",
+		"/G/DEVELOP/Files/library/deps/Hello.hs",
+		"/G/DEVELOP/Files/library/Files.hs",
+		"/G/DEVELOP/LearnLOVE/src/hello/main.lua",
+		"/G/DEVELOP/Files/library/Heads.hs",
+		"/G/DEVELOP/Files/library/Hello.hs",
+		"/G/DEVELOP/Files/files.cabal",
+		"/G/DEVELOP/Files/test-suite/InterlaceSpec.hs",
+		"/G/DEVELOP/Files/test-suite/Spec.hs",
+		"/G/DEVELOP/Files/library/Files/Heads.hs",
+		"/G/DEVELOP/Files/data/f1.txt",
+		"/G/DEVELOP/Files/data/f2.txt",
+		"/G/DEVELOP/Files/src/FileHeads.hs",
+		"/G/DEVELOP/Files/stack.yaml",
+		"/G/MANUSCRIPT/micelle/main/Main.tex",
+		"/G/MANUSCRIPT/micelle/autoscript.lua",
+		"/G/MANUSCRIPT/micelle/sections/methods/main.tex",
+		"/G/DEVELOP/Files/README.md",
+		"/G/MANUSCRIPT/micelle/bibfiles/tbpub.bib",
+		"/G/MANUSCRIPT/micelle/sections/method/main.tex",
+		"/G/DEVELOP/AppliedStochasticProcesses/h6/requirements.txt",
+		"/G/DEVELOP/AppliedStochasticProcesses/.gitignore",
+		"/G/MANUSCRIPT/micelle/main/.gitignore",
+		"/G/Meeting/group_meeting/literature/2016-10-05/index.html",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/method.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/numbers.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/near_protein.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a1/overview.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/title.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a1/micelle_analyses.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/overview.md",
+		"/G/DEVELOP/AlgorithmBox/src/easy/haskell/plus.hs",
+		"/G/DEVELOP/LearningData/src/hw1/h1.jl",
+		"/G/DEVELOP/AlgorithmBox/src/easy/python/plus.py",
+		"/G/DEVELOP/AlgorithmBox/src/easy/haskell/in.txt",
+		"/G/DEVELOP/LearningData/src/hw1/h1.py",
+		"/C/Users/Steven/Downloads/Hi/src/hello.cu",
+		"/D/install/Nim/0.15.0/config/nim.cfg",
+		"/G/DEVELOP/HelloWorldWindows/README.md",
+		"/G/DEVELOP/HelloWorldWindows/src/Nim/hello.nim",
+		"/G/DEVELOP/HelloWorldWindows/src/Nim/.gitignore"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"trivial",
+			"Example",
+			"spec",
+			"Spec",
+			"spec",
+			"githubuser",
+			"Files",
+			"files",
+			"i",
+			"_",
+			"MIT",
+			"NAMD",
+			"PHIL2009",
+			"+ ",
+			"\t",
+			"args",
+			"ps",
+			"p1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"trivial",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/G/DEVELOP/Periodic/executable/Main.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haskell/Haskell.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/G/DEVELOP/Periodic/package.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/G/DEVELOP/Periodic/Periodic.cabal",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Cabal.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/G/DEVELOP/AppliedStochasticProcesses/h6/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1336,
+								1336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_error_panel":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "proj.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
